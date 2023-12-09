@@ -8,11 +8,12 @@ To write a program to find the LU Decomposition of a matrix.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1.Perform LU Decomposition: 
-   Use LU decomposition to factorize the coefficient matrix A into two matrices L(lower 
-   triangular) and U (Upper Triangular)
+1. Use LU decomposition to factorize the coefficient matrix A into two matrices L(lower triangular) and U (Upper Triangular)
+   
 2. Solve for Y in LY=B
-3. Solve for X in UX=Y
+
+3.Solve for X in UX=Y
+
 4. The solution matrix X contains the values of the variables that satisfies the system of linear equations.
 
 ## Program:
